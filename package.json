@@ -9,7 +9,8 @@
     "dist"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "rollup -w -c",
+    "build": "rollup -c"
   },
   "keywords": [],
   "author": "",
